@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+ 	background-image:url("../Source Images/IMG_2024.jpg");
+ 	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: top;
+	
+}
+
+img {
+	border-radius: 50%
+}
+
+img {
+	position: sticky
+}
